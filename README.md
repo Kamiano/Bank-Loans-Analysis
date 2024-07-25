@@ -1,8 +1,28 @@
 # Bank-Loans-Analysis
-I embarked in this project as I found a liking in the finance sector.
-This project used two technologies (SQL & Power Bi).
-The sql part was necessary as it helped calculate and analyze the large dataset that was present. Power Bi was a key technology as it helped create an interactive dashboard to visualise my results from the analysis. The two technologies were useful in comparison of the results and making sure the information produced is accurate. 
-Analysing large datasets is a bit tedious and considering it is providing necessary information for decision making in a Bank that offers its services to many countries it requires knowledge in finance.
-## Snippet
-![image](https://github.com/user-attachments/assets/375ffe28-9486-440d-8886-5d0591f979c4)
-I gained a broad knowledge in the finance sector and it was a good challenge in my part
+Intrigued by the potential insights hidden within sales data, I embarked on this project to analyze bank loan performance. By leveraging Power BI and SQL Server, I aimed to uncover trends, patterns, and key performance indicators that could inform strategic decision-making.
+
+## Data
+The dataset encompasses comprehensive information on bank loans, including loan amount, interest rate, loan term, customer demographics, and repayment status.
+
+## Tools
+
+Power BI: For data modeling, visualization, and interactive report creation.
+SQL Server: For data storage and retrieval.
+
+## Methodology
+
+Data Acquisition: Relevant loan data was extracted from the SQL Server database.
+Data Cleaning and Transformation: Data inconsistencies were addressed, and necessary transformations were applied to ensure data accuracy and reliability.
+Data Modeling: A robust data model was created in Power BI to establish relationships between different data elements.
+Exploratory Data Analysis: Initial exploration was conducted to understand data distribution and identify potential patterns.
+Visualization: Interactive dashboards were developed using Power BI to present key findings and insights.
+
+## Visualizations
+
+The project includes three interactive dashboards that provide a comprehensive overview of the bank loan portfolio:
+A Quick Snippet:
+![image](https://github.com/user-attachments/assets/63e206fb-6d76-4643-9c9a-ae7692300383)
+
+
+
+
